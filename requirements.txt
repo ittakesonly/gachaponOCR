@@ -1,0 +1,8 @@
+discord.py-self
+aiohttp
+requests
+Pillow
+python-dotenv
+scikit-learn
+numpy
+rich
