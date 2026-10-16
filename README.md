@@ -4,7 +4,7 @@
 - **Star if this got you good drops <3**
 - **Every 5 stars is 1 update** ⭐
 
-A fast, autonomous Discord bot engineered for farming and sniping Gachapon cards. Built on spatial OCR coordinate mapping (Azure Computer Vision) and a local Machine Learning preference engine (TF-IDF + Logistic Regression) that learns what franchises you claim and auto-picks for you when AFK.
+A fast, autonomous Discord bot engineered for farming and sniping [Gachapon](https://discord.com/oauth2/authorize?client_id=815289915557675118&scope=bot+applications.commands&permissions=8) cards. Built on spatial OCR coordinate mapping (Azure Computer Vision) and a local Machine Learning preference engine (TF-IDF + Logistic Regression) that learns what franchises/series you claim and auto-picks for you when AFK.
 
 > ⚠️ **DISCLAIMER:** **Run this on an alt account** and use the built-in `!give` command to transfer cards to your main. `itonlytakes` is not responsible for terminated accounts.
 
